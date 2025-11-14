@@ -40,7 +40,7 @@ This project provides an interactive notebook that:
 
 * The model is governed by differential equations:
 
-    $\dfrac{d\boldsymbol{S}}{dt} = - \beta \dfrac{\boldsymbol{S}\boldsymbol{I}}{N}, \;\;\; \dfrac{d \boldsymbol{I}}{dt} = \beta \dfrac{\boldsymbol{S}\boldsymbol{I}}{N} = \gamma \boldsymbol{I}, \;\;\; \dfrac{d \boldsymbol{R}}{dt} = \gamma \boldsymbol{I}$
+    $\dfrac{d\boldsymbol{S}}{dt} = - \beta \dfrac{\boldsymbol{S}\boldsymbol{I}}{N}, \\ \dfrac{d \boldsymbol{I}}{dt} = \beta \dfrac{\boldsymbol{S}\boldsymbol{I}}{N} = \gamma \boldsymbol{I}, \\ \dfrac{d \boldsymbol{R}}{dt} = \gamma \boldsymbol{I}$
 
 where: 
     - $ \beta $
