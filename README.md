@@ -43,4 +43,9 @@ This project provides an interactive notebook that:
     $\dfrac{d\boldsymbol{S}}{dt} = - \beta \dfrac{\boldsymbol{S}\boldsymbol{I}}{N}, \\ \dfrac{d \boldsymbol{I}}{dt} = \beta \dfrac{\boldsymbol{S}\boldsymbol{I}}{N} = \gamma \boldsymbol{I}, \\ \dfrac{d \boldsymbol{R}}{dt} = \gamma \boldsymbol{I}$
 
 where: 
-    - $ \beta $
+    - $\beta$ (beta) = infection rate parameter
+    - $\gamma$ (gamma) = recovery rate parameter
+
+## Acknowledgements
+
+Thanks to my friend and co-student Thanasis Chouklis for collaborating with me on this code.
